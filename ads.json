@@ -1,0 +1,31 @@
+{
+  "banner_admob": "ca-app-pub-3940256099942544/6300978111",
+  "inter_admob": "ca-app-pub-8950544100505040/8486095451",
+  "reword_admob": "ca-app-pub-8950544100505040/8687661033",
+
+  "sdk_key": "Ri9P-mVCF3DKFeUOrJ9356E8twTJf3HI1Ixu4h6JoE_HyP5TLNr5H5P9EgEsUVGo1pSqwwD0JOFWs3TXOoVpzT",
+  "banner_applovin": "",
+  "inter_applovin": "df98ef218f763c54",
+  "reword_applovin": "2ad0aea8946cbfb5",
+
+  "game_id": "",
+  "banner_unity": "Banner_Android",
+  "inter_unity": "Interstitial_Android",
+  "reword_unity":"Rewarded_Android",
+
+  "banner_fan": "Banner_Android",
+  "inter_fan": "Interstitial_Android",
+  "reword_fan":"Rewarded_Android",
+
+  "appkey_ironsource": "",
+  "banner_ironsource": "Banner_Android",
+  "inter_ironsource": "Interstitial_Android",
+  "reword_ironsource":"Rewarded_Android",
+
+  "crash":"n",
+  "active_rate":"n",
+  "send_traffic":"n",
+  "traffic_url":"https://play.google.com/store/apps/dev?id=5713672414955811747",
+  "inReview" : "n"
+
+  }
